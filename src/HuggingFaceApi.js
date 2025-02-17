@@ -1,4 +1,4 @@
-import { Api_Token } from "../Api_Token";
+import { Api_Token } from "../Api_Token.js";
 import { HfInference } from "@huggingface/inference";
 
 const SYSTEM_PROMPT = `
